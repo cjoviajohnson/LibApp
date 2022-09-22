@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://jovi:jovi@cluster0.tncfitt.mongodb.net/?retryWrites=true&w=majority"
+  }
